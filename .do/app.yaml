@@ -1,0 +1,8 @@
+name: personal-portfolio
+static_sites:
+- environment_slug: html
+  github:
+    branch: main
+    deploy_on_push: true
+    repo: abishekvashok/personal-portfolio
+  name: personal-portfolio

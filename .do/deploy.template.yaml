@@ -1,0 +1,8 @@
+spec:
+  name: personal-portfolio
+  static_sites:
+  - environment_slug: html
+    git:
+      branch: main
+      repo_clone_url: https://github.com/abishekvashok/personal-portfolio.git
+    name: personal-portfolio
